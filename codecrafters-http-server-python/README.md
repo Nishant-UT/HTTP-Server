@@ -1,6 +1,6 @@
-Multi-threaded HTTP Server with Compression
+#Multi-threaded HTTP Server with Compression
 
-A lightweight, multi-threaded HTTP server built using Python’s socket module, capable of handling concurrent connections, serving static files, processing POST requests, and supporting Gzip/Deflate compression.
+>A lightweight, multi-threaded HTTP server built using Python’s socket module, capable of handling concurrent connections, serving static files, processing POST >requests, and supporting Gzip/Deflate compression.
 
 Features
 Handles up to 500+ concurrent client connections using multi-threading.
